@@ -5,4 +5,4 @@ A visualization tool for KenPom data
 This file imports the data and creates the visualizations with plotly. The layout of the website is created using dash.
 
 ## kp_scrape.py
-This file is executed once per day and saves the data from KenPom.com as a csv file.
+This file is executed once per day. It scrapes KenPom.com and Sports-Reference.com and saves the data as a csv file to PythonAnywhere.
