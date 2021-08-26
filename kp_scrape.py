@@ -144,8 +144,8 @@ combined.to_csv(r'/home/KenPomGraphs/mysite/static_data/current_data.csv')
 
 
 
-username = "KenPomGraphs"
-api_token = "91b854683922265ddb20a111a53cbe6deeeb09b1"
+username = "[insert username]"
+api_token = "[insert API token]"
 domain_name = "www.kpgraphs.com"
 
 response = requests.post(
